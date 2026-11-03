@@ -12,35 +12,34 @@
  [ CONTROL IS AN ILLUSION. HELLO, FRIEND. ]
 ```
 
-### 👤 `ɪᴅᴇɴᴛɪᴛʏ: vymsk`
-> *“Are you a one or a zero? That's the question you have to ask yourself.”*
+<div align="center">
+  <p><em>“Are you a one or a zero? That's the question you have to ask yourself.”</em></p>
+  <img src="./assets/terminal.svg" width="100%" alt="fsociety noir terminal" />
+</div>
 
-<p align="center">
-  <img src="./assets/terminal.svg" width="100%" alt="fsociety root terminal" />
+<br />
+
+### 🗄️ `sᴛᴀᴄᴋ & ᴛᴏᴏʟs`
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=bash,linux,apple,python,c,git,github,regex,vim&theme=dark" />
 </p>
 
 ---
 
-### 💻 `ᴛᴏᴏʟs & ᴀʀsᴇɴᴀʟ`
+### 📡 `ᴍᴏɴɪᴛᴏʀ`
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=bash,linux,apple,python,c,git,github,regex,powershell,vim&theme=dark" />
+  <img src="https://streak-stats.demolab.com?user=vymsk&theme=dark&background=09090b&border=27272a&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=a0a0a0&sideLabels=707070&dates=505050" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=vymsk&label=PINGS&color=27272a&style=flat-square" alt="Profile views" />
+  <a href="https://t.me/vymsk"><img src="https://img.shields.io/badge/TELEGRAM-000000?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
 
 ---
 
-### 📡 `sʏsᴛᴇᴍ ᴍᴏɴɪᴛᴏʀ`
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=vymsk&theme=dark&background=050505&border=ff0033&stroke=00ff66&ring=ff0033&fire=ff0033&currStreakNum=00ff66&sideNums=999999&sideLabels=999999&dates=666666" alt="GitHub Streak" />
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=vymsk&label=SYSTEM_PINGS&color=ff0033&style=flat-square" alt="Profile views" />
-</p>
-
----
-
-```bash
-root@vymsk:~# echo "Goodbye, friend." && exit 0
-```
+<div align="center">
+  <sub>root@vymsk:~# echo "Goodbye, friend." &amp;&amp; exit 0</sub>
+</div>
