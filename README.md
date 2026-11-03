@@ -14,7 +14,7 @@
 
 <div align="center">
   <p><em>“Are you a one or a zero? That's the question you have to ask yourself.”</em></p>
-  <img src="https://raw.githubusercontent.com/vymsk/vymsk/main/assets/terminal.svg?v=2" width="100%" alt="fsociety noir terminal" />
+  <img src="./assets/terminal-noir.svg" width="100%" alt="fsociety noir terminal" />
 </div>
 
 <br />

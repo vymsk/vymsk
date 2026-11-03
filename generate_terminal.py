@@ -83,8 +83,8 @@ def generate_terminal_svg(output_path: Path):
 """
     output_path.parent.mkdir(parents=True, exist_ok=True)
     output_path.write_text(svg, encoding="utf-8")
-    print(f"Generated monochrome terminal: {output_path}")
+    print(f"Generated: {output_path}")
 
 if __name__ == "__main__":
     base_dir = Path(__file__).resolve().parent
-    generate_terminal_svg(base_dir / "assets" / "terminal.svg")
+    generate_terminal_svg(base_dir / "assets" / "terminal-noir.svg")
