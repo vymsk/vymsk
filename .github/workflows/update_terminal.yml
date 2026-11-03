@@ -1,0 +1,27 @@
+name: Update fsociety Terminal
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Every midnight
+  workflow_dispatch: # Can be triggered manually
+
+jobs:
+  update-svg:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Regenerate SVG
+        run: python3 generate_terminal.py
+      - name: Commit & Push changes
+        run: |
+          git config --global user.name "fsociety-bot"
+          git config --global user.email "bot@fsociety.internal"
+          git add assets/terminal.svg
+          git commit -m "daemon: sync terminal presence" || exit 0
+          git push

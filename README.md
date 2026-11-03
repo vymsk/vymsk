@@ -15,15 +15,9 @@
 ### 👤 `ɪᴅᴇɴᴛɪᴛʏ: vymsk`
 > *“Are you a one or a zero? That's the question you have to ask yourself.”*
 
-```yaml
-root@vymsk:~# cat /etc/identity.conf
-OPERATOR: vymsk
-AFFILIATION: fsociety
-STATE: Rooted
-SYS_SPECS: macOS / Darwin x86_64 / arm64
-DIRECTIVES: [Automation, Low-Level, Security, Development]
-ENCRYPTED_COMMS: https://t.me/vymsk
-```
+<p align="center">
+  <img src="./assets/terminal.svg" width="100%" alt="fsociety root terminal" />
+</p>
 
 ---
 
