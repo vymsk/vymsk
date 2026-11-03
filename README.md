@@ -16,12 +16,13 @@
 > *“Are you a one or a zero? That's the question you have to ask yourself.”*
 
 ```yaml
-root@vymsk:~# cat info.env
-USER: vymsk
-ROLE: Apprentice / SysAdmin / Breaker of Systems
-STATUS: Lurking in the dark pools of code
-INTERESTS: [Reverse Engineering, Automation, Unix/macOS, Scripting]
-COMMUNICATION: https://t.me/vymsk
+root@vymsk:~# cat /etc/identity.conf
+OPERATOR: vymsk
+AFFILIATION: fsociety
+STATE: Rooted
+SYS_SPECS: macOS / Darwin x86_64 / arm64
+DIRECTIVES: [Automation, Low-Level, Security, Development]
+ENCRYPTED_COMMS: https://t.me/vymsk
 ```
 
 ---
@@ -34,11 +35,14 @@ COMMUNICATION: https://t.me/vymsk
 
 ---
 
-### 📡 `sʏsᴛᴇᴍ sᴛᴀᴛᴜs`
+### 📡 `sʏsᴛᴇᴍ ᴍᴏɴɪᴛᴏʀ`
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vymsk&show_icons=true&theme=radical&hide_border=true&bg_color=050505&title_color=ff0033&icon_color=00ff66&text_color=999999" width="48%" alt="fsociety stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vymsk&layout=compact&theme=radical&hide_border=true&bg_color=050505&title_color=ff0033&text_color=999999" width="40%" alt="fsociety langs" />
+  <img src="https://streak-stats.demolab.com?user=vymsk&theme=dark&background=050505&border=ff0033&stroke=00ff66&ring=ff0033&fire=ff0033&currStreakNum=00ff66&sideNums=999999&sideLabels=999999&dates=666666" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=vymsk&label=SYSTEM_PINGS&color=ff0033&style=flat-square" alt="Profile views" />
 </p>
 
 ---
